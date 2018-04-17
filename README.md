@@ -1,30 +1,32 @@
 # Reading List
 
-## 2017 (October-)
+## 2017
 
-- [x] Sapiens, Yuval Noah Harari 
+- [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
+- [x] Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R. Hofstadter
+- [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams
 - [x] Gang Leader for a Day, Sudhir Venkatesh
-- [x] How Not to be Wrong, The Power of Mathematical Thinking, Jordan Ellenberg
-- [x] The Infinite, A.W Moore
+- [x] The Infinite, A.W. Moore
+- [x] How Not to Be Wrong: The Power of Mathematical Thinking, Jordan Ellenberg
 
-## 2018 
+## 2018
 
-- [x] Homo Deus, Yuval Noah Harari
-- [x] Predictably Irrational, Dan Ariely
-- [x] Genome, Matt Ridley
-- [x] The Idea Factory, Bell Labs and the Great Age of American Innovation, Jon Gertner
+- [x] Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
+- [x] Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari
+- [x] Predictably Irrational: The Hidden Forces That Shape Our Decisions, Dan Ariely
+- [x] The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner
 
 ## Currently Reading
 
-- [ ] 12 Rules For Life, Jordan Peterson
-- [ ] The Rational Optimist, Matt Ridley
+- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
+- [ ] 12 Rules for Life: An Antidote to Chaos, Jordan B. Peterson
 
 ## Up Next
 
-- [ ] Zero to One, Peter Thiel
-- [ ] Liar's Poker, Michael Lewis
-- [ ] The Sovereign Individual, James Davidson
-- [ ] Why Nations Fail, Daron Acemoglu
 - [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel
+- [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
+- [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] Principles, Ray Dalio
-- [ ] Collapse, Jared Diamond
+- [ ] Liar's Poker, Michael   Lewis
+- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond

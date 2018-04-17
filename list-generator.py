@@ -35,6 +35,8 @@ def parse_book_data(goodreads_content):
     root = ET.fromstring(goodreads_content)
     user_books = root[1]
 
+    book_data = [{}, {}, {}]
+
     for curr_book in user_books:
         curr_book_info = curr_book.find('book')
 
@@ -65,21 +67,52 @@ def parse_book_data(goodreads_content):
                 shelf_bucket = 2
                 break
 
+        book_data[shelf_bucket][book_name] = {}
+        book_data[shelf_bucket][book_name]['authors'] = book_authors
+
         # find year in which read
         if shelf_bucket == 0:
             year_finished = curr_book.find('read_at').text[-4:]
-        else:
-            year_finished = None
+            book_data[shelf_bucket][book_name]['year'] = year_finished
 
-        print book_name, book_authors, shelf_bucket, year_finished
+    return book_data
 
-def write_to_readme(book_data):
-    pass
+def format_for_readme(book_data):
+    past, present, future = book_data[0], book_data[1], book_data[2]
+    past_sorted = sorted(past.items(), key=lambda x: x[1]['year'])
+
+    data_string = '# Reading List\n'
+
+    last_year = None
+    for book_name, book_info in past_sorted:
+        author_str = ', '.join(book_info['authors'])
+        curr_year = book_info['year']
+
+        if curr_year != last_year:
+            last_year = curr_year
+            data_string += ('\n## ' + curr_year + '\n\n')
+
+        data_string += ('- [x] ' + book_name + ', ' + author_str + '\n')
+
+    data_string += '\n## Currently Reading\n\n'
+    for book_name, book_info in present.items():
+        author_str = ', '.join(book_info['authors'])
+        data_string += ('- [ ] ' + book_name + ', ' + author_str + '\n')
+
+    data_string += '\n## Up Next\n\n'
+    for book_name, book_info in future.items():
+        author_str = ', '.join(book_info['authors'])
+        data_string += ('- [ ] ' + book_name + ', ' + author_str + '\n')
+    
+    return data_string.encode('utf-8')
 
 def main():
     gr_resp = request_book_data()
     book_data = parse_book_data(gr_resp)
-    write_to_readme(book_data)
+    data_string = format_for_readme(book_data)
+
+    with open('README.md', 'w') as reading_list_file:
+        reading_list_file.write(data_string)
 
 if __name__ == '__main__':
     main()
