@@ -3,7 +3,6 @@
 ## 2017
 
 - [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
-- [x] Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R. Hofstadter
 - [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams
 - [x] Gang Leader for a Day, Sudhir Venkatesh
 - [x] The Infinite, A.W. Moore
@@ -25,8 +24,10 @@
 
 - [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 - [ ] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel
-- [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
+- [ ] Leaders Eat Last, Simon Sinek
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
+- [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Principles, Ray Dalio
 - [ ] Liar's Poker, Michael   Lewis
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
+- [ ] The Infinite Game, Simon Sinek
