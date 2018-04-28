@@ -6,7 +6,6 @@
 - [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams
 - [x] Gang Leader for a Day, Sudhir Venkatesh
 - [x] The Infinite, A.W. Moore
-- [x] How Not to Be Wrong: The Power of Mathematical Thinking, Jordan Ellenberg
 
 ## 2018
 
@@ -18,8 +17,8 @@
 
 ## Currently Reading
 
-- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
 - [ ] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel
+- [ ] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman
 
 ## Up Next
 
@@ -29,5 +28,6 @@
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Principles, Ray Dalio
 - [ ] Liar's Poker, Michael   Lewis
+- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
 - [ ] The Infinite Game, Simon Sinek
