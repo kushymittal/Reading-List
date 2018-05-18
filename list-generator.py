@@ -14,7 +14,7 @@ def request_book_data():
     payload['id'] = credentials['user_id']
 
     import pickle
-    load_from_pickle = True
+    load_from_pickle = False
 
     if load_from_pickle:
         x = pickle.load(open('response.p', 'rb'))
