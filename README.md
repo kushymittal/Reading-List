@@ -2,7 +2,12 @@
 
 ## 2017
 
+- [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
+- [x] Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R. Hofstadter
 - [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams
+- [x] Gang Leader for a Day, Sudhir Venkatesh
+- [x] The Infinite, A.W. Moore
+- [x] How Not to Be Wrong: The Power of Mathematical Thinking, Jordan Ellenberg
 
 ## 2018
 
