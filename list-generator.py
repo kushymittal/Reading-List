@@ -12,6 +12,7 @@ def request_book_data():
     payload = {}
     payload['key'] = credentials['key']
     payload['id'] = credentials['user_id']
+    payload['per_page'] = 200
 
     import pickle
     load_from_pickle = False
@@ -42,7 +43,7 @@ def parse_book_data(goodreads_content):
 
         # book title
         book_name = curr_book_info.find('title').text
-        
+
         # book authors
         book_authors = []
         book_authors_obj = curr_book_info.find('authors')
@@ -56,7 +57,7 @@ def parse_book_data(goodreads_content):
         
         for curr_shelf in book_shelves:
             shelf_name = curr_shelf.get('name')
-            
+
             if shelf_name == 'read':
                 shelf_bucket = 0
                 break
