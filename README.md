@@ -2,10 +2,7 @@
 
 ## 2017
 
-- [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
 - [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams
-- [x] Gang Leader for a Day, Sudhir Venkatesh
-- [x] The Infinite, A.W. Moore
 
 ## 2018
 
@@ -24,10 +21,13 @@
 
 ## Up Next
 
+- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
 - [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] Principles, Ray Dalio
+- [ ] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
 - [ ] Liar's Poker, Michael   Lewis
-- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
+- [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
+- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
 - [ ] The Infinite Game, Simon Sinek
