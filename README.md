@@ -22,17 +22,18 @@
 ## Currently Reading
 
 - [ ] Leaders Eat Last, Simon Sinek
-- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
+- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Lean In: Women, Work, and the Will to Lead, Sheryl Sandberg
 
 ## Up Next
 
 - [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
-- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] Principles, Ray Dalio
 - [ ] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
 - [ ] Liar's Poker, Michael   Lewis
 - [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
-- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
+- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
 - [ ] The Infinite Game, Simon Sinek
