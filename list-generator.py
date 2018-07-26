@@ -2,6 +2,12 @@ import json
 import requests
 import xml.etree.ElementTree as ET
 
+# @TODO
+# add support for ratings
+#       incorporate ratings key
+# shelf of re-read books
+# sort by date
+
 def request_book_data():
     credentials = None
     with open('secrets.json') as json_file:
@@ -50,6 +56,9 @@ def parse_book_data(goodreads_content):
         for x in book_authors_obj:
             book_authors.append(x.find('name').text)
 
+        # book rating
+        book_rating = int(curr_book.find('rating').text)
+
         # (0(finished, year), 1(currently reading), 2(future))
         # book bucket
         book_shelves = curr_book.find('shelves')
@@ -70,6 +79,7 @@ def parse_book_data(goodreads_content):
 
         book_data[shelf_bucket][book_name] = {}
         book_data[shelf_bucket][book_name]['authors'] = book_authors
+        book_data[shelf_bucket][book_name]['rating'] = book_rating
 
         # find year in which read
         if shelf_bucket == 0:
@@ -81,8 +91,15 @@ def parse_book_data(goodreads_content):
 def format_for_readme(book_data):
     past, present, future = book_data[0], book_data[1], book_data[2]
     past_sorted = sorted(past.items(), key=lambda x: x[1]['year'])
+    ratings = [('', ''), (' :-1:', 'Disliked/Abandoned'), (' :zzz:', 'Slow/boring at times'), (' :+1:', 'Good read'), (' :thought_balloon: :+1: :thought_balloon:', 'Incredibly thought-provoking'), (' :clap: :clap: :clap:', 'Worth a re-read')]
 
     data_string = '# Reading List\n'
+
+    data_string += '## Key\n'
+    for i in reversed(xrange(1, len(ratings))):
+        data_string += (ratings[i][0] + '\t\t: ' + ratings[i][1] + '  \n')
+
+    data_string += '\n'
 
     last_year = None
     for book_name, book_info in past_sorted:
@@ -93,7 +110,7 @@ def format_for_readme(book_data):
             last_year = curr_year
             data_string += ('\n## ' + curr_year + '\n\n')
 
-        data_string += ('- [x] ' + book_name + ', ' + author_str + '\n')
+        data_string += ('- [x] ' + book_name + ', ' + author_str + ratings[book_info['rating']][0] + '\n')
 
     data_string += '\n## Currently Reading\n\n'
     for book_name, book_info in present.items():
