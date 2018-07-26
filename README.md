@@ -1,10 +1,10 @@
 # Reading List
 
 ## Key
-:clap: :clap: :clap:    : Worth a re-read\n
-:thought_balloon:       : Incredibly thought-provoking
-:+1:                    : Good read
-:-1:                    : Abandoned/Disliked
+:clap: :clap: :clap:    : Worth a re-read  
+:thought_balloon:       : Incredibly thought-provoking  
+:+1:                    : Good read  
+:-1:                    : Abandoned/Disliked  
 
 ## 2017
 
