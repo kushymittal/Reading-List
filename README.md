@@ -1,4 +1,8 @@
 # Reading List
+## Books worth re-reading
+- [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
+- [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman
+- [x] Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari
 ## Key
  :clap: :clap: :clap:		: Worth a re-read  
  :thought_balloon: :+1: :thought_balloon:		: Incredibly thought-provoking  
