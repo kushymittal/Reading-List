@@ -1,5 +1,5 @@
 # Reading List
-## Books worth re-reading
+## tl;dr Books worth re-reading
 - [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
 - [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman
 - [x] Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari
@@ -34,6 +34,7 @@
 
 - [ ] Leaders Eat Last, Simon Sinek
 - [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
 - [ ] Lean In: Women, Work, and the Will to Lead, Sheryl Sandberg
 
 ## Up Next
@@ -47,7 +48,6 @@
 - [ ] The Undoing Project: A Friendship That Changed Our Minds, Michael   Lewis
 - [ ] The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves, Dan Ariely
 - [ ] Principles, Ray Dalio
-- [ ] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
 - [ ] Liar's Poker, Michael   Lewis
 - [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
