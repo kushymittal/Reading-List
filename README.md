@@ -28,27 +28,31 @@
 - [x] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel :thought_balloon: :+1: :thought_balloon:
 - [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman :clap: :clap: :clap:
 - [x] 12 Rules for Life: An Antidote to Chaos, Jordan B. Peterson :thought_balloon: :+1: :thought_balloon:
+- [x] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou :+1:
 - [x] Lean In: Women, Work, and the Will to Lead, Sheryl Sandberg :thought_balloon: :+1: :thought_balloon:
 - [x] The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner :-1:
 
 ## Currently Reading
 
-- [ ] Leaders Eat Last, Simon Sinek
-- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
-- [ ] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou
+- [ ] Principles, Ray Dalio
+- [ ] High Growth Handbook, Elad Gil
 
 ## Up Next
 
 - [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
-- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
-- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
-- [ ] High Growth Handbook, Elad Gil
+- [ ] Skin in the Game, Tomas Byrne
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
+- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
+- [ ] High Output Management, Andrew S. Grove
+- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
+- [ ] When Einstein Walked with Gödel: Excursions to the Edge of Thought, Jim Holt
+- [ ] Leaders Eat Last, Simon Sinek
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] The Undoing Project: A Friendship That Changed Our Minds, Michael   Lewis
 - [ ] The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves, Dan Ariely
-- [ ] Principles, Ray Dalio
 - [ ] Liar's Poker, Michael   Lewis
 - [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
+- [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, Ben Horowitz
+- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 - [ ] The Infinite Game, Simon Sinek
