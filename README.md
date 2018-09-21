@@ -39,20 +39,23 @@
 
 ## Up Next
 
-- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
-- [ ] Skin in the Game, Tomas Byrne
+- [ ] The 4-Hour Workweek, Timothy Ferriss
+- [ ] When Einstein Walked with Gödel: Excursions to the Edge of Thought, Jim Holt
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
 - [ ] High Output Management, Andrew S. Grove
-- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
-- [ ] When Einstein Walked with Gödel: Excursions to the Edge of Thought, Jim Holt
-- [ ] Leaders Eat Last, Simon Sinek
+- [ ] Winners Take All: The Elite Charade of Changing the World, Anand Giridharadas
+- [ ] Skin in the Game, Tomas Byrne
+- [ ] Measure What Matters, John Doerr
+- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] The Undoing Project: A Friendship That Changed Our Minds, Michael   Lewis
 - [ ] The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves, Dan Ariely
 - [ ] Liar's Poker, Michael   Lewis
 - [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
-- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
+- [ ] Leaders Eat Last, Simon Sinek
 - [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, Ben Horowitz
 - [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
 - [ ] The Infinite Game, Simon Sinek
+- [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
