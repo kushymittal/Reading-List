@@ -34,28 +34,36 @@
 
 ## Currently Reading
 
-- [ ] Principles, Ray Dalio
+- [ ] Small Fry, Lisa Brennan-Jobs
 - [ ] High Growth Handbook, Elad Gil
+- [ ] How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence, Michael Pollan
+- [ ] Skin in the Game, Tomas Byrne
 
 ## Up Next
 
+- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+- [ ] Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb
+- [ ] Liar's Poker, Michael   Lewis
+- [ ] The Black Swan: The Impact of the Highly Improbable, Nassim Nicholas Taleb
+- [ ] Uberland: How Algorithms Are Rewriting the Rules of Work, Alex Rosenblat
+- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, Ajay Agrawal
+- [ ] Winners Take All: The Elite Charade of Changing the World, Anand Giridharadas
+- [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
+- [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
+- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
+- [ ] The Infinite Game, Simon Sinek
+- [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
 - [ ] The 4-Hour Workweek, Timothy Ferriss
 - [ ] When Einstein Walked with Gödel: Excursions to the Edge of Thought, Jim Holt
-- [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
-- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, ajay agrawal
+- [ ] How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life, Scott Adams
 - [ ] High Output Management, Andrew S. Grove
-- [ ] Winners Take All: The Elite Charade of Changing the World, Anand Giridharadas
-- [ ] Skin in the Game, Tomas Byrne
 - [ ] Measure What Matters, John Doerr
-- [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
-- [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoğlu
-- [ ] The Undoing Project: A Friendship That Changed Our Minds, Michael   Lewis
 - [ ] The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves, Dan Ariely
-- [ ] Liar's Poker, Michael   Lewis
-- [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
-- [ ] Leaders Eat Last, Simon Sinek
-- [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, Ben Horowitz
-- [ ] Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
-- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
-- [ ] The Infinite Game, Simon Sinek
 - [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
+- [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
+- [ ] Leaders Eat Last, Simon Sinek
+- [ ] The Undoing Project: A Friendship That Changed Our Minds, Michael   Lewis
+- [ ] Principles, Ray Dalio
+- [ ] The Art of Thinking Clearly, Rolf Dobelli
+- [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers, Ben Horowitz
+- [ ] Swipe to Unlock: The Insider’s Guide to Tech and Business Strategy, Parth Detroja
