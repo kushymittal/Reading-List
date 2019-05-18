@@ -1,5 +1,5 @@
 # Reading List
-## tl;dr Books worth re-reading
+## Books worth re-reading
 - [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
 - [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman
 - [x] Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari
@@ -35,14 +35,15 @@
 ## 2019
 
 - [x] Small Fry, Lisa Brennan-Jobs :+1:
+- [x] Prediction Machines: The Simple Economics of Artificial Intelligence, Ajay Agrawal :thought_balloon: :+1: :thought_balloon:
 - [x] Skin in the Game: The Hidden Asymmetries in Daily Life, Nassim Nicholas Taleb :+1:
 - [x] How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence, Michael Pollan :+1:
 - [x] High Growth Handbook, Elad Gil :thought_balloon: :+1: :thought_balloon:
+- [x] The Book of Why: The New Science of Cause and Effect, Judea Pearl :+1:
 
 ## Currently Reading
 
-- [ ] The Book of Why: The New Science of Cause and Effect, Judea Pearl
-- [ ] Prediction Machines: The Simple Economics of Artificial Intelligence, Ajay Agrawal
+- [ ] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries, Safi Bahcall
 
 ## Up Next
 
