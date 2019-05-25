@@ -13,33 +13,34 @@
 
 ## 2017
 
-- [x] Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R. Hofstadter :thought_balloon: :+1: :thought_balloon:
+- [x] How Not to Be Wrong: The Power of Mathematical Thinking, Jordan Ellenberg :+1:
 - [x] The Infinite, A.W. Moore :zzz:
 - [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari :clap: :clap: :clap:
-- [x] How Not to Be Wrong: The Power of Mathematical Thinking, Jordan Ellenberg :+1:
+- [x] Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R. Hofstadter :thought_balloon: :+1: :thought_balloon:
 - [x] Gang Leader for a Day, Sudhir Venkatesh :+1:
 - [x] The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1), Douglas Adams :+1:
 
 ## 2018
 
-- [x] Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley :zzz:
+- [x] Predictably Irrational: The Hidden Forces That Shape Our Decisions, Dan Ariely :thought_balloon: :+1: :thought_balloon:
 - [x] Bad Blood: Secrets and Lies in a Silicon Valley Startup, John Carreyrou :+1:
-- [x] Homo Deus: A History of Tomorrow, Yuval Noah Harari :clap: :clap: :clap:
-- [x] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel :thought_balloon: :+1: :thought_balloon:
 - [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard Feynman :clap: :clap: :clap:
 - [x] 12 Rules for Life: An Antidote to Chaos, Jordan B. Peterson :thought_balloon: :+1: :thought_balloon:
-- [x] Predictably Irrational: The Hidden Forces That Shape Our Decisions, Dan Ariely :thought_balloon: :+1: :thought_balloon:
+- [x] Homo Deus: A History of Tomorrow, Yuval Noah Harari :clap: :clap: :clap:
 - [x] Lean In: Women, Work, and the Will to Lead, Sheryl Sandberg :thought_balloon: :+1: :thought_balloon:
 - [x] The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner :-1:
+- [x] Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley :zzz:
+- [x] Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel :thought_balloon: :+1: :thought_balloon:
 
 ## 2019
 
-- [x] Small Fry, Lisa Brennan-Jobs :+1:
+- [x] The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure, Greg Lukianoff :thought_balloon: :+1: :thought_balloon:
 - [x] Prediction Machines: The Simple Economics of Artificial Intelligence, Ajay Agrawal :thought_balloon: :+1: :thought_balloon:
+- [x] The Book of Why: The New Science of Cause and Effect, Judea Pearl :+1:
+- [x] High Growth Handbook, Elad Gil :thought_balloon: :+1: :thought_balloon:
+- [x] Small Fry, Lisa Brennan-Jobs :+1:
 - [x] Skin in the Game: The Hidden Asymmetries in Daily Life, Nassim Nicholas Taleb :+1:
 - [x] How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence, Michael Pollan :+1:
-- [x] High Growth Handbook, Elad Gil :thought_balloon: :+1: :thought_balloon:
-- [x] The Book of Why: The New Science of Cause and Effect, Judea Pearl :+1:
 
 ## Currently Reading
 
