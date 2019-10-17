@@ -1,5 +1,6 @@
 # Reading List
 ## Books worth re-reading
+- [x] Naked Economics: Undressing the Dismal Science, Charles Wheelan
 - [x] Sapiens: A Brief History of Humankind, Yuval Noah Harari
 - [x] Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Richard P. Feynman
 - [x] Siddhartha, Hermann Hesse
@@ -39,6 +40,7 @@
 - [x] The Lost City of the Monkey God, Douglas Preston :+1:
 - [x] Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries, Safi Bahcall :+1:
 - [x] The Book of Why: The New Science of Cause and Effect, Judea Pearl :+1:
+- [x] Naked Economics: Undressing the Dismal Science, Charles Wheelan :clap: :clap: :clap:
 - [x] High Growth Handbook, Elad Gil :thought_balloon: :+1: :thought_balloon:
 - [x] Prediction Machines: The Simple Economics of Artificial Intelligence, Ajay Agrawal :thought_balloon: :+1: :thought_balloon:
 - [x] Never Split the Difference: Negotiating As If Your Life Depended On It, Chris Voss :thought_balloon: :+1: :thought_balloon:
@@ -49,7 +51,7 @@
 
 ## Currently Reading
 
-- [ ] Naked Statistics: Stripping the Dread from the Data, Charles Wheelan
+- [ ] The Case Against Education: Why the Education System Is a Waste of Time and Money, Bryan Caplan
 
 ## Up Next
 
@@ -57,13 +59,12 @@
 - [ ] The Road, Cormac McCarthy
 - [ ] Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb
 - [ ] Liar's Poker, Michael   Lewis
+- [ ] The Third Pillar: How Markets and the State Leave the Community Behind, Raghuram G. Rajan
 - [ ] The Black Swan: The Impact of the Highly Improbable, Nassim Nicholas Taleb
 - [ ] Uberland: How Algorithms Are Rewriting the Rules of Work, Alex Rosenblat
-- [ ] The Case Against Education: Why the Education System Is a Waste of Time and Money, Bryan Caplan
 - [ ] Winners Take All: The Elite Charade of Changing the World, Anand Giridharadas
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
-- [ ] Naked Economics: Undressing the Dismal Science, Charles Wheelan
 - [ ] A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam, Karen Armstrong
 - [ ] Blink: The Power of Thinking Without Thinking, Malcolm Gladwell
 - [ ] The Infinite Game, Simon Sinek
@@ -72,11 +73,12 @@
 - [ ] When Einstein Walked with Gödel: Excursions to the Edge of Thought, Jim Holt
 - [ ] How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life, Scott Adams
 - [ ] High Output Management, Andrew S. Grove
-- [ ] Measure What Matters, John Doerr
+- [ ] Measure What Matters, John E. Doerr
 - [ ] American Gods (American Gods, #1), Neil Gaiman
 - [ ] The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves, Dan Ariely
 - [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
 - [ ] Swipe to Unlock: The Primer on Technology and Business Strategy, Parth Detroja
+- [ ] Naked Statistics: Stripping the Dread from the Data, Charles Wheelan
 - [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
 - [ ] Leaders Eat Last, Simon Sinek
 - [ ] Storm Front (The Dresden Files, #1), Jim Butcher
