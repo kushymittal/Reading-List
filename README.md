@@ -51,7 +51,7 @@
 
 ## Currently Reading
 
-- [ ] The Case Against Education: Why the Education System Is a Waste of Time and Money, Bryan Caplan
+- [ ] Wild and Crazy Guys: How the Comedy Mavericks of the '80s Changed Hollywood Forever, Nick de Semlyen
 
 ## Up Next
 
@@ -62,6 +62,7 @@
 - [ ] The Third Pillar: How Markets and the State Leave the Community Behind, Raghuram G. Rajan
 - [ ] The Black Swan: The Impact of the Highly Improbable, Nassim Nicholas Taleb
 - [ ] Uberland: How Algorithms Are Rewriting the Rules of Work, Alex Rosenblat
+- [ ] The Case Against Education: Why the Education System Is a Waste of Time and Money, Bryan Caplan
 - [ ] Winners Take All: The Elite Charade of Changing the World, Anand Giridharadas
 - [ ] The Sovereign Individual: Mastering the Transition to the Information Age, James Dale Davidson
 - [ ] Collapse: How Societies Choose to Fail or Succeed, Jared Diamond
@@ -79,6 +80,7 @@
 - [ ] The Rational Optimist: How Prosperity Evolves, Matt Ridley
 - [ ] Swipe to Unlock: The Primer on Technology and Business Strategy, Parth Detroja
 - [ ] Naked Statistics: Stripping the Dread from the Data, Charles Wheelan
+- [ ] All Blood Runs Red: The Legendary Life of Eugene Bullard-Boxer, Pilot, Soldier, Spy, Phil Keith
 - [ ] Finite and Infinite Games: A Vision of Life as Play and Possibility, James P. Carse
 - [ ] Leaders Eat Last, Simon Sinek
 - [ ] Storm Front (The Dresden Files, #1), Jim Butcher
